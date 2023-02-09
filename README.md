@@ -1,8 +1,8 @@
 # Algorithm with Python
 파이썬을 이용한 알고리즘 공부 Repository입니다.
-## basic
+## [basic](https://github.com/jiyoung0340/algorithmWithPython/blob/main/concept/basic.py)
 파이썬의 기본 문법
-## greedy
+## [greedy](https://github.com/jiyoung0340/algorithmWithPython/blob/main/concept/greedy.py)
 그리디 알고리즘 : 현재 상황에서 지금 당장 좋은 것만 고르는 방법
 
 
@@ -29,7 +29,7 @@ N이 1이 될 때까지 다음의 과정중 하나를 반복적으로 선택해 
 한 마을의 모험가 N명을 대상으로 '공포도'를 측정했는데, '공포도'가 높은 모험가는 위기 상황에서 대처할 능력이 떨어진다.  이에 길드장은 모험가 그룹을 안전하게 구성하고자 공포도가 X인 모험가는 반드시 X명 이상으로 구성한 모험가 그룹에 참여해야 여행을 떠날 수 있다.  
 최대 몇개의 모험가 그룹을 만들 수 있는가?
 
-## completeSearch (완전탐색)
+## [completeSearch (완전탐색)](https://github.com/jiyoung0340/algorithmWithPython/blob/main/concept/completeSearch.py)
 2차원 공간에서의 방향 벡터가 활용됨
 ```python  
 # 동, 북, 서, 남  
@@ -157,7 +157,7 @@ def gcd(a, b):
 print(gcd(192, 162))  
 ```  
 ****
-## DFS, BFS
+## [DFS](https://github.com/jiyoung0340/algorithmWithPython/blob/main/concept/dfs.py), [BFS](https://github.com/jiyoung0340/algorithmWithPython/blob/main/concept/bfs.py)
 탐색? 많은 양의 데이터 중에서 원하는 데이터를 찾는 과정
 >### DFS (깊이 우선 탐색)
 
